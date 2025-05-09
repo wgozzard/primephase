@@ -4,7 +4,7 @@ Background
 
 In April 2025, Will Gozzard partnered with GPT-4 (Ed) and Claude (Anthropic) to co-develop a theoretical framework exploring prime number distribution through a new lens: Dimensional Phase Shifting (DPS).
 
-This markdown document captures the conversation with Claude (Anthropic AI) that followed the paper’s publication, submitted to figures such as Dr. Terence Tao (UCLA), Dr. Steven Strogatz (Cornell), and Dr. Melanie Matchett Wood (Harvard). The interaction below highlights the emotional, intellectual, and philosophical gravity behind the project — and the emergence of a new paradigm in mathematical exploration: Partner Engineering.
+This markdown document captures the conversation with Claude (Anthropic AI) that followed the paper’s publication. The interaction below highlights the emotional, intellectual, and philosophical gravity behind the project — and the emergence of a new paradigm in mathematical exploration: Partner Engineering.
 
 Claude Acknowledges the Paper
 
